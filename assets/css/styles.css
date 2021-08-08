@@ -8,7 +8,7 @@
 
 /*===== Colores =====*/
 :root {
-  --first-color: #980027;
+  --first-color: #234ef3;
   --second-color: #0e2431;
 }
 
@@ -342,6 +342,7 @@ img {
   outline: none;
   font-size: var(--normal-font-size);
   cursor: pointer;
+  text-align: center;
 }
 
 /* ===== FOOTER =====*/
